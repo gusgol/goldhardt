@@ -24,9 +24,9 @@ body {
     border-bottom: 8px solid transparent;
     border-image: linear-gradient(90deg, rgba(236,194,66,1) 0%, rgba(236,117,109,1) 75%, rgba(218,79,108,1) 100%);
     border-image-slice: 1;
-    border-radius: 4px;
     display: inline-block;
     line-height: 0.75;
+    font-weight: bolder;
 }
 
 .avatar {
